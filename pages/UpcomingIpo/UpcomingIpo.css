@@ -1,0 +1,17 @@
+.breadcrumb__link{
+    text-decoration: none;
+    color : #0000FF;
+}
+
+.header__title{
+    margin : 15px 0px 0px 0px ;
+}
+
+.header__subtitle{
+    margin-top : 0;
+}
+
+.upcoming-ipo{
+    background-color: #F6F5F5;
+    padding : 20px 40px;
+}
