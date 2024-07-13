@@ -1,0 +1,11 @@
+.ipo-card-list{
+    min-width: 450px;
+    background-color: #F6F5F5;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    column-gap: 50px;
+    row-gap: 40px;
+    padding : 20px;
+}

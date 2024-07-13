@@ -9,8 +9,8 @@ const cardData = [
         issueSize: "143.81 Cr.",
         issueType: "Book Built",
         listingDate: "2024-01-30",
-        rhp : "assets/rhp/sample_rhp.pdf",
-        drhp : "assets/drhp/sample_drhp.pdf"
+        rhp : "../assets/documents/rhp/sample_rhp.pdf",
+        drhp : "../assets/documents/drhp/sample_drhp.pdf"
     },
     {
         logo: "assets/logos/com_logo_2.png",
@@ -21,8 +21,8 @@ const cardData = [
         issueSize: "640.05 Cr.",
         issueType: "Book Built",
         listingDate: "2024-01-28",
-        rhp : "assets/rhp/sample_rhp.pdf",
-        drhp : "assets/drhp/sample_drhp.pdf"
+        rhp : "../assets/documents/rhp/sample_rhp.pdf",
+        drhp : "../assets/documents/drhp/sample_drhp.pdf"
     },
     {
         logo: "assets/logos/com_logo_3.png",
@@ -33,8 +33,8 @@ const cardData = [
         issueSize: "Not Issued",
         issueType: "Book Built",
         listingDate: "Not Issued",
-        rhp : "assets/rhp/sample_rhp.pdf",
-        drhp : "assets/drhp/sample_drhp.pdf"
+        rhp : "../assets/documents/rhp/sample_rhp.pdf",
+        drhp : "../assets/documents/drhp/sample_drhp.pdf"
     },
     {
         logo: "assets/logos/com_logo_4.png",
@@ -45,8 +45,8 @@ const cardData = [
         issueSize: "8430 Cr.",
         issueType: "Book Built",
         listingDate: "Not Issued",
-        rhp : "assets/rhp/sample_rhp.pdf",
-        drhp : "assets/drhp/sample_drhp.pdf"
+        rhp : "../assets/documents/rhp/sample_rhp.pdf",
+        drhp : "../assets/documents/drhp/sample_drhp.pdf"
     },
     {
         logo: "assets/logos/com_logo_5.png",
@@ -57,8 +57,8 @@ const cardData = [
         issueSize: "2000 Cr.",
         issueType: "Book Built",
         listingDate: "Not Issued",
-        rhp : "assets/rhp/sample_rhp.pdf",
-        drhp : "assets/drhp/sample_drhp.pdf"
+        rhp : "../assets/documents/rhp/sample_rhp.pdf",
+        drhp : "../assets/documents/drhp/sample_drhp.pdf"
     },
     {
         logo: "assets/logos/com_logo_6.png",
@@ -69,8 +69,8 @@ const cardData = [
         issueSize: "Not Issued",
         issueType: "Book Built",
         listingDate: "Not Issued",
-        rhp : "assets/rhp/sample_rhp.pdf",
-        drhp : "assets/drhp/sample_drhp.pdf"
+        rhp : "../assets/documents/rhp/sample_rhp.pdf",
+        drhp : "../assets/documents/drhp/sample_drhp.pdf"
     },
     {
         logo: "assets/logos/com_logo_7.png",
@@ -81,8 +81,8 @@ const cardData = [
         issueSize: "Not Issued",
         issueType: "Book Built",
         listingDate: "Not Issued",
-        rhp : "assets/rhp/sample_rhp.pdf",
-        drhp : "assets/drhp/sample_drhp.pdf"
+        rhp : "../assets/documents/rhp/sample_rhp.pdf",
+        drhp : "../assets/documents/drhp/sample_drhp.pdf"
     },
     {
         logo: "assets/logos/com_logo_8.png",
@@ -93,8 +93,8 @@ const cardData = [
         issueSize: "1800 Cr.",
         issueType: "Book Built",
         listingDate: "Not Issued",
-        rhp : "assets/rhp/sample_rhp.pdf",
-        drhp : "assets/drhp/sample_drhp.pdf"
+        rhp : "../assets/documents/rhp/sample_rhp.pdf",
+        drhp : "../assets/documents/drhp/sample_drhp.pdf"
     },
     {
         logo: "assets/logos/com_logo_9.png",
@@ -105,8 +105,8 @@ const cardData = [
         issueSize: "1600 Cr.",
         issueType: "Book Built",
         listingDate: "Not Issued",
-        rhp : "assets/rhp/sample_rhp.pdf",
-        drhp : "assets/drhp/sample_drhp.pdf"
+        rhp : "../assets/documents/rhp/sample_rhp.pdf",
+        drhp : "../assets/documents/drhp/sample_drhp.pdf"
     },
     {
         logo: "assets/logos/com_logo_10.png",
@@ -117,8 +117,8 @@ const cardData = [
         issueSize: "Not Issued",
         issueType: "Book Built",
         listingDate: "Not Issued",
-        rhp : "assets/rhp/sample_rhp.pdf",
-        drhp : "assets/drhp/sample_drhp.pdf"
+        rhp : "../assets/documents/rhp/sample_rhp.pdf",
+        drhp : "../assets/documents/drhp/sample_drhp.pdf"
     },
     {
         logo: "assets/logos/com_logo_11.png",
@@ -129,8 +129,8 @@ const cardData = [
         issueSize: "Not Issued",
         issueType: "Book Built",
         listingDate: "Not Issued",
-        rhp : "assets/rhp/sample_rhp.pdf",
-        drhp : "assets/drhp/sample_drhp.pdf"
+        rhp : "../assets/documents/rhp/sample_rhp.pdf",
+        drhp : "../assets/documents/drhp/sample_drhp.pdf"
     },
     {
         logo: "assets/logos/com_logo_12.png",
@@ -141,7 +141,7 @@ const cardData = [
         issueSize: "Not Issued",
         issueType: "Book Built",
         listingDate: "Not Issued",
-        rhp : "assets/rhp/sample_rhp.pdf",
-        drhp : "assets/drhp/sample_drhp.pdf"
+        rhp : "../assets/documents/rhp/sample_rhp.pdf",
+        drhp : "../assets/documents/drhp/sample_drhp.pdf"
     }
 ];
