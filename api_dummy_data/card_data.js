@@ -1,4 +1,9 @@
-// Data for the cards
+/* 
+  Author: Satyam Rathore
+  Date: 2024-07-15
+  Description: Data for the cards displaying IPO related information.
+*/
+
 const cardData = [
     {
         logo: "assets/logos/com_logo_1.png",

@@ -1,11 +1,13 @@
-.ipo-card-list{
-    min-width: 450px;
+/* 
+  Author: Satyam Rathore
+  Date: 2024-07-15
+  Description: Styles for a grid layout for IPO card list, ensuring responsive design with auto-fit columns.
+*/
+
+.ipo-card-list {
     background-color: #F6F5F5;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-around;
-    margin : 35px 0px;
-    align-items: center;
-    column-gap: 50px;
-    row-gap: 40px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+    gap : 50px;
+    margin: 35px 0;
 }

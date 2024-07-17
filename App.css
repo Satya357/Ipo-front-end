@@ -1,0 +1,9 @@
+/* 
+  Author: Satyam Rathore
+  Date: 2024-07-15
+  Description: Styles for the root application container ensuring a minimum width.
+*/
+
+.app{
+    min-width: 480px;
+}

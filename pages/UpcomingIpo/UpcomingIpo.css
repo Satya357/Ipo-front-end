@@ -1,3 +1,9 @@
+/* 
+  Author: Satyam Rathore
+  Date: 2024-07-15
+  Description: Styles for Breadcrumb, Header, and Upcoming IPO components.
+*/
+
 .breadcrumb__link{
     text-decoration: none;
     color : #0000FF;

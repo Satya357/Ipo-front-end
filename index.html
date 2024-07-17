@@ -1,25 +1,33 @@
+<!-- 
+  Author: Satyam Rathore
+  Date: 2024-07-15
+  Description: Main HTML file for the Bluestock Fintech application, including links to CSS and JavaScript files, and CDN links for React, and ReactDOM.
+-->
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Bluestock Fintech</title>
-    <!-- <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous"> -->
-    <link rel="stylesheet" href="style.css">
-    <link rel="stylesheet" href="components/App/App.css">
+    <link rel="stylesheet" href="index.css">
+    <link rel="stylesheet" href="App.css">
     <link rel="stylesheet" href="components/Card/Card.css">
     <link rel="stylesheet" href="pages/IpoCardList/IpoCardList.css">
     <link rel="stylesheet" href="pages/UpcomingIpo/UpcomingIpo.css">
 </head>
 <body>
     <div id="root"></div>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+    <!-- React and ReactDOM CDN -->
     <script src="https://unpkg.com/react@17/umd/react.development.js"></script>
     <script src="https://unpkg.com/react-dom@17/umd/react-dom.development.js"></script>
+    <!-- Dummy data script -->
     <script src="api_dummy_data/card_data.js"></script>
+    <!-- Component scripts -->
     <script src="components/Card/Card.js"></script>
     <script src="pages/IpoCardList/IpoCardList.js"></script>
     <script src="pages/UpcomingIpo/UpcomingIpo.js"></script>
-    <script src="components/App/App.js"></script>
+    <!-- Main App script -->
+    <script src="App.js"></script>
 </body>
 </html>

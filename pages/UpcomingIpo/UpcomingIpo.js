@@ -1,10 +1,16 @@
+/* 
+  Author: Satyam Rathore
+  Date: 2024-07-15
+  Description: React components for Breadcrumb, Header, and Upcoming IPO page layout.
+*/
+
 const Breadcrumb = () => {
     return React.createElement(
       'div',
       { className: 'breadcrumb' },
-      React.createElement('a', { href: '/', className: 'breadcrumb__link' }, 'Bluestock'),
+      React.createElement('a', { href: '#bluestock', className: 'breadcrumb__link' }, 'Bluestock'),
       React.createElement('span', { className: 'breadcrumb__separator' }, ' › '),
-      React.createElement('a', { href: '/ipo', className: 'breadcrumb__link' }, 'IPO'),
+      React.createElement('a', { href: '#ipo', className: 'breadcrumb__link' }, 'IPO'),
       React.createElement('span', { className: 'breadcrumb__separator' }, ' › '),
       React.createElement('span', { className: 'breadcrumb__current' }, 'UPCOMING IPO')
     );
